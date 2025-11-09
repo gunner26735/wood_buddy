@@ -34,13 +34,13 @@ export default function About() {
               <span className="block text-amber-700 mt-2">One Piece at a Time</span>
             </h2>
             <p className="text-lg text-stone-600 leading-relaxed mb-6">
-              Bhavik Furniture is a premier carpentry and wooden work company dedicated to delivering exceptional craftsmanship and innovative design solutions. We specialize in transforming spaces through the timeless beauty of wood.
+              Wood Buddy is a premier carpentry and wooden work company dedicated to delivering exceptional craftsmanship and innovative design solutions. We specialize in transforming spaces through the timeless beauty of wood.
             </p>
             <p className="text-lg text-stone-600 leading-relaxed mb-6">
               From large-scale corporate contracts to intimate home projects, we bring the same level of dedication, precision, and artistry to every piece we create. Our team of skilled craftsmen combines traditional techniques with modern design sensibilities.
             </p>
             <p className="text-lg text-stone-600 leading-relaxed">
-              Whether you're furnishing an entire office complex, upgrading a housing society's common areas, or creating custom furniture for your home, Bhavik Furniture is your trusted partner in wood.
+              Whether you're furnishing an entire office complex, upgrading a housing society's common areas, or creating custom furniture for your home, Wood Buddy is your trusted partner in wood.
             </p>
           </div>
 

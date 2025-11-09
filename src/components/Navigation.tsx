@@ -57,7 +57,7 @@ export default function Navigation({ activeSection, setActiveSection }: Navigati
               <h1 className={`text-2xl font-bold tracking-tight transition-colors duration-300 ${
                 isScrolled ? 'text-amber-900' : 'text-white'
               }`}>
-                Bhavik Furniture
+                Wood Buddy
               </h1>
               <p className={`text-xs tracking-wider transition-colors duration-300 ${
                 isScrolled ? 'text-amber-700' : 'text-amber-100'

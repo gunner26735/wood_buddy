@@ -6,35 +6,35 @@ export default function Testimonials() {
       name: 'Rajesh Sharma',
       role: 'Homeowner',
       image: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=200',
-      text: 'Bhavik Furniture transformed our home with beautiful custom wardrobes and a stunning dining set. The craftsmanship is exceptional, and they completed everything on time. Highly recommended!',
+      text: 'Wood Buddy transformed our home with beautiful custom wardrobes and a stunning dining set. The craftsmanship is exceptional, and they completed everything on time. Highly recommended!',
       rating: 5
     },
     {
       name: 'Priya Desai',
       role: 'Interior Designer',
       image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=200',
-      text: 'I have worked with Bhavik Furniture on multiple client projects. Their attention to detail and ability to execute complex designs flawlessly makes them my go-to partner for all woodwork requirements.',
+      text: 'I have worked with Wood Buddy on multiple client projects. Their attention to detail and ability to execute complex designs flawlessly makes them my go-to partner for all woodwork requirements.',
       rating: 5
     },
     {
       name: 'Amit Patel',
       role: 'Corporate Office Manager',
       image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=200',
-      text: 'We contracted Bhavik Furniture for our entire office setup. They delivered premium quality workstations, conference tables, and storage solutions. Professional service from start to finish.',
+      text: 'We contracted Wood Buddy for our entire office setup. They delivered premium quality workstations, conference tables, and storage solutions. Professional service from start to finish.',
       rating: 5
     },
     {
       name: 'Sneha Kapoor',
       role: 'Society Managing Committee',
       image: 'https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=200',
-      text: 'Bhavik Furniture completed the woodwork for our society clubhouse and reading room. The quality exceeded our expectations and they managed the large-scale project with great efficiency.',
+      text: 'Wood Buddy completed the woodwork for our society clubhouse and reading room. The quality exceeded our expectations and they managed the large-scale project with great efficiency.',
       rating: 5
     },
     {
       name: 'Vikram Singh',
       role: 'Restaurant Owner',
       image: 'https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=200',
-      text: 'The custom furniture and wooden interiors created by Bhavik Furniture gave our restaurant a warm, inviting ambiance. Their craftsmanship reflects true artistry in wood.',
+      text: 'The custom furniture and wooden interiors created by Wood Buddy gave our restaurant a warm, inviting ambiance. Their craftsmanship reflects true artistry in wood.',
       rating: 5
     },
     {

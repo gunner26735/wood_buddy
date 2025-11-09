@@ -11,7 +11,7 @@ export default function Footer() {
             <div className="flex items-center space-x-3 mb-4">
               <Hammer size={32} className="text-amber-500" />
               <div>
-                <h3 className="text-xl font-bold">Bhavik Furniture</h3>
+                <h3 className="text-xl font-bold">Wood Buddy</h3>
                 <p className="text-xs text-amber-400 tracking-wider">Crafting Excellence</p>
               </div>
             </div>
@@ -84,7 +84,7 @@ export default function Footer() {
         <div className="border-t border-stone-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-stone-400 text-sm">
-              {currentYear} Bhavik Furniture. All rights reserved.
+              {currentYear} Wood Buddy. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-stone-400 hover:text-amber-400 transition-colors">Privacy Policy</a>
