@@ -56,8 +56,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-stone-900 mb-1">Phone</h4>
-                    <p className="text-stone-600">+91 98765 43210</p>
-                    <p className="text-stone-600">+91 98765 43211</p>
+                    <p className="text-stone-600">+91 99252 87288</p>
+                    <p className="text-stone-600">+91 70695 80307</p>
                   </div>
                 </div>
 
@@ -67,8 +67,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-stone-900 mb-1">Email</h4>
-                    <p className="text-stone-600">info@bhavikfurniture.com</p>
-                    <p className="text-stone-600">projects@bhavikfurniture.com</p>
+                    <p className="text-stone-600">gajjarbhavik149@gmail.com</p>
+                    <p className="text-stone-600">abhishekganvir.2003@gmail.com</p>
                   </div>
                 </div>
 
@@ -79,9 +79,7 @@ export default function Contact() {
                   <div>
                     <h4 className="font-semibold text-stone-900 mb-1">Address</h4>
                     <p className="text-stone-600">
-                      123 Woodwork Lane<br />
-                      Furniture District<br />
-                      Mumbai, Maharashtra 400001
+                      Narol, Ahmedabad, Gujarat 382405
                     </p>
                   </div>
                 </div>
@@ -92,8 +90,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-stone-900 mb-1">Business Hours</h4>
-                    <p className="text-stone-600">Monday - Saturday: 9:00 AM - 7:00 PM</p>
-                    <p className="text-stone-600">Sunday: 10:00 AM - 4:00 PM</p>
+                    <p className="text-stone-600">Monday - Sunday: 9:00 AM - 9:00 PM</p>
                   </div>
                 </div>
               </div>
